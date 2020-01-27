@@ -13,6 +13,8 @@ Yeah, you can test this [here](https://naucode.github.io/Weather-Finder-ReactJS/
 - CSS Animations
 - React Components
 
+Note: It is not mobile friendly (yet)!
+
 ## How to install it?
 Just run this code:
 ``` bash
