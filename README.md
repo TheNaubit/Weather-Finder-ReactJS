@@ -1,8 +1,8 @@
-# Weather Finde in ReactJS
+# Weather Finder in ReactJS
 This project is the continuation of the tutorials I am writing for my upcoming blog teaching ReactJS. Meanwhile the blog is not finished yet (too much to write!), you can download this project and since it is full of comments, you will be ready for my tutorials once they are done!
 
 ## Is there a demo?
-Yeah, you can test this [here](#)!
+Yeah, you can test this [here](https://naucode.github.io/Weather-Finder-ReactJS/)!
 
 ## What features this project has?
 - ReactJS
